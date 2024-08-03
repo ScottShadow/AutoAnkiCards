@@ -38,4 +38,4 @@ Once you have the questions and answers, you can format them into a CSV file tha
 
 EXAMPLE OUTPUT:
 
-![German_Flashcards](image.png)
+![German_Flashcards](example_output.png)
